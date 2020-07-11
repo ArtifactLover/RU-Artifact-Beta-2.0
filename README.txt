@@ -24,7 +24,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2161392753
 "Не понял такое pull request?" спрашивать тут: https://vk.com/the_artifactzone
 
 Помогающие (лучшие люди на земле):
-
+GGwpAiushtha
 
 
 
