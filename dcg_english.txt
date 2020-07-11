@@ -116,7 +116,7 @@
 	"DCG_Gauntlet_Perfect"							"Perfect Runs: {d:perfect} ({s:winrate}%)"
 	"DCG_Gauntlet_TrophyScore"						"Gauntlet Level: {d:rating}<br/>Runs: {d:attempts}<br/>Perfect Runs: {d:perfect}"
 	"DCG_Gauntlet_GauntletRuns"						"Attempts: {d:gauntlet_attempts}"
-	"DCG_Gauntlet_Leaderboard"						"Rankings"
+	"DCG_Gauntlet_Leaderboard"						"Рейтинговая Таблица"
 	"DCG_Gauntlet_Abandon"							"Покинуть"
 	"DCG_Gauntlet_StartGauntlet"					"Начать"
 	"DCG_Gauntlet_CollectRewards"					"Завершить"
