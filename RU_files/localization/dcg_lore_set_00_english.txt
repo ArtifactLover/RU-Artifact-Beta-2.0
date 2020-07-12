@@ -14,7 +14,7 @@
 
 //Heroes and includes
 "CardLore_4003"		"Драться — все равно что крушить черепа стволом дерева. Это аналогия! — <i>Киф Дуболом, Огр-громила</i>"
-"CardLore_4004"		"Жизнь — это очередь людей, пытающихся тебя убить. Убей их первой. — <i>Киф делится житейской мудростю со своей четырехлетней дочкой.</i>"
+"CardLore_4004"		"Жизнь — это череда людей, пытающихся тебя убить. Убей их первой. — <i>Киф делится житейской мудростю со своей четырехлетней дочкой.</i>"
 "CardLore_4000"		"Magnus brought the child to us for safe keeping. He didn't say why but he didn't have to. I knew who she was, and who she could become. — <i>Farvhan, the Prowler Shaman</i>"
 "CardLore_4002"		"I don't know why the child is important... all I know is that we have been charged with her protection, and we won't let The Shaman down. — <i>The Prowler Vanguard take in Ilexa</i>"
 "CardLore_4005"		"Kobold's aren't born with names. We take them from the first person we kill. In retrospect I should have considered that before I shoved that baker into her oven. On the other hand - I kind of look like a Debbi. — <i>Debbi, the Kobold Saboteur</i>"
