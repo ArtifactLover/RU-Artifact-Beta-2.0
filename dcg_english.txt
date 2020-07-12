@@ -905,7 +905,7 @@
 	"DCG_DeckBuilder_SellAllExcessCards"			"Добавить все лишние карты"
 	"DCG_DeckBuilder_PurchaseUnowned"				"Докупить карты (<span class=\"UnownedCardText\">{i:numUnownedCards} шт.</span>)"
 	"DCG_DeckBuilder_PurchaseUnownedWithQtyPrice"	"Докупить карты (<span class=\"UnownedCardText\">{i:numUnownedCards} шт.</span>): ~{g:dcg_price:unownedPrice}"
-	""DCG_DeckBuilder_EstimatedPriceTooltip"			"Указанные цены с Торговой площадки являются примерными."
+	"DCG_DeckBuilder_EstimatedPriceTooltip"			"Указанные цены с Торговой площадки являются примерными."
 	"DCG_DeckBuilder_PurchaseCardsButton"			"Купить"
 	"DCG_DeckBuilder_SellCardsButton"				"Продать"
 	"DCG_DeckBuilder_RecycleCardsButton"			"Перековать"
