@@ -27,7 +27,7 @@ html не трогаем (пример: `<span color=''>`), текст внут�
 
 ##### [Ссылка на мастерскую (?)](https://steamcommunity.com/sharedfiles/filedetails/?id=2161392753)
 ##### [Создатель перевода](https://steamcommunity.com/id/lal_too1488)
-##### "Не понял такое pull request?" спрашивать тут: [artifact zone](https://vk.com/the_artifactzone)
+##### "Не понял что такое pull request?" спрашивать тут: [artifact zone](https://vk.com/the_artifactzone)
 
 ### Помогающие (лучшие люди на земле):
 GGwpAiushtha
