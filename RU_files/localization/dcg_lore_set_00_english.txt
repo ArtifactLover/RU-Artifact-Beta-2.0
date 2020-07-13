@@ -5,16 +5,16 @@
 //Items
 
 "CardLore_3000"		"It's not fancy but it makes going from here to there a far more pleasant experience. — <i>Jolixia, The Card Faun</i>"
-"CardLore_3001"		"Is it the prettiest thing in the world? No. Is it better than a knife in your belly? Without question. — <i>Jolixia, The Card Faun</i>"
-"CardLore_3002"		"Not every hero wields a blade... but let's be honest, most of them do. — <i>Jolixia, The Card Faun</i>"
-"CardLore_3003"		"A soothing balm that eases the most grievous of wounds. — <i>Jolixia, The Card Faun</i>"
-"CardLore_3004"		"This water blessed by the Ancients can cure any wound. — <i>Jolixia, The Card Faun</i>"
-"CardLore_3005"		"They say a little bit of knowledge can be a dangerous thing... it also can be your salvation... — <i>Jolixia, The Card Faun</i>"
-"CardLore_3006"		"Knowing when to step away from a battle isn't cowardice, it is wisdom. — <i>Jolixia, The Card Faun</i>"
+"CardLore_3001"		"Это самая красивая штука в мире? Нет. Лучше ли это ножа в твоем животе. Без вопросов. — <i>Джоликсиа, Хранительница карт</i>"
+"CardLore_3002"		"Не каждый герой орудует мечом... ,но будем честными, большая часть именно это и делает. — <i>Джоликсиа, Хранительница Карт</i>"
+"CardLore_3003"		"Нежный бальзам, который облегчает самые тяжёлые раны. — <i>Джоликсиа, Хранительница карт</i>"
+"CardLore_3004"		"Эта вода благословлённая самими Древними может исцелить любую рану. — <i>Джоликсиа, Хранительница карт</i>"
+"CardLore_3005"		"Говорят что толика знаний может быть опасна... также она может быть вашим спасением... — <i>Джоликсиа, Хранительница карт</i>"
+"CardLore_3006"		"Понимание, когда нужно отступить, является не проявлением трусости, а мудростью. — <i>Джоликсиа, Хранительница карт</i>"
 
 //Heroes and includes
-"CardLore_4003"		"Fighting is like crushing someone's skull with a tree trunk. That's an analogy! — <i>Keefe Treekiller, the Ogre Bruiser</i>"
-"CardLore_4004"		"Life is a series of people trying to kill you. Kill them first. — <i>Keefe imparts wisdom to his 4 year old daughter</i>"
+"CardLore_4003"		"Драться — все равно что крушить черепа стволом дерева. Это аналогия! — <i>Киф Дуболом, Огр-громила</i>"
+"CardLore_4004"		"Жизнь — это череда людей, пытающихся тебя убить. Убей их первой. — <i>Киф делится житейской мудростю со своей четырехлетней дочкой.</i>"
 "CardLore_4000"		"Magnus brought the child to us for safe keeping. He didn't say why but he didn't have to. I knew who she was, and who she could become. — <i>Farvhan, the Prowler Shaman</i>"
 "CardLore_4002"		"I don't know why the child is important... all I know is that we have been charged with her protection, and we won't let The Shaman down. — <i>The Prowler Vanguard take in Ilexa</i>"
 "CardLore_4005"		"Kobold's aren't born with names. We take them from the first person we kill. In retrospect I should have considered that before I shoved that baker into her oven. On the other hand - I kind of look like a Debbi. — <i>Debbi, the Kobold Saboteur</i>"
