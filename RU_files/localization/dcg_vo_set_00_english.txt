@@ -3,7 +3,7 @@
 
 	"DCG_VO_lady_anshu_intro"	"I know some of you supported the vhoul rebellion... that you believed Rix’s cause was just; and that Galanius was a tyrant who needed to be shown that the world wasn’t his.  I understand why you felt that way.  It doesn’t matter anymore.  Rix has taken The Oath; and in exchange for his soul the Court of Ristul has given him the means to destroy Stonehall.  Is Galanius a monster?  Maybe.  But at least he is of the living. We will not stand idle while demons butcher the men, women, and children of Stonehall.  We will march. And we will fight.  And yes, many of us will die; but we offer our lives not out of foolishness but out of necessity... because if we don’t stop the dead and the damned... who will?"
 	"DCG_VO_lady_anshu_psalm_of_st_crell"	" Смерть естественна, как и наш страх смерти.  Но послушай меня и пойми:  Смерть это не монстр, которого можно убить.  Это не источник энергии, который прогнется под твоей властью, и не раб, который будет выполнять твои приказания.  Поэтому, когда Смерть приходит к тебе, встречай ее не страхом - страх, который ты покажешь Смерти будет отражен в печали тех, кто тебя любит.  Нет.  Лучше встречать Смерть тепло.. уравновешенно и мужественно: быть примером своим друзьям, чтобы они тоже могли найти мужество в твоё отсутствие.."
-	"DCG_VO_lady_anshu_rumusque_scythe"	"Мертвые может быть сильные, но наша вера сильнее."
+	"DCG_VO_lady_anshu_rumusque_scythe"	"Мертвые могут быть сильны, но наша вера сильнее."
 	"DCG_VO_lady_anshu_shield_of_st_crell"	"Присмотри за нами, Крелла... Дай нам силы перед лицом верной смерти, и мудрости не повторять твое безумие."
 	"DCG_VO_lady_anshu_equip_generic_weapon_01"	"Зло будет повержено."
 	"DCG_VO_lady_anshu_equip_generic_weapon_02"	"Я установлю справедливость."
